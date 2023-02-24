@@ -178,10 +178,10 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -192,10 +192,10 @@ sections:
   - block: collection
     content:
       title: Work in Progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./progress/).
-        {{% /callout %}}
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./progress/).
+#        {{% /callout %}}
       filters:
         folders:
           - progress
