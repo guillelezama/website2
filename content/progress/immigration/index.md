@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "How Do Political Elites Respond to Mass-Migration Crises? Evidence from Venezuelan Migration to South America"
 authors:
 - admin
 - Valentina González-Rostani
