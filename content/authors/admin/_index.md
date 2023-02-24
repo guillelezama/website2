@@ -83,9 +83,8 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-Welcome to my personal website! I am a Ph.D. Candidate in Economics at the University of Pittsburgh. I was born and raised in Uruguay, where I also completed my undergraduate studies at the Universidad de la República (Udelar).
+Welcome to my personal website! I am a Ph.D. Candidate in Economics at the University of Pittsburgh. I was born and raised in Uruguay, where I also completed my undergraduate studies at the Universidad de la República (Udelar).{style="text-align: justify;"}
 
-My research interests lie in the field of Political Economy, specifically in the different approaches that can be used to address Political Economy questions. I am particularly interested in the application of text-learning methods and applied microeconomics to study political economy.
+My research interests lie in the field of Political Economy, specifically in the different approaches that can be used to address Political Economy questions. I am particularly interested in the application of text-learning methods and applied microeconomics to study political economy.{style="text-align: justify;"}
 
-As you navigate through my website, you will find information about my research, publications, presentations, and other professional activities. You can also find my resume and contact information if you would like to get in touch with me.
-{style="text-align: justify;"}
+As you navigate through my website, you will find information about my research, publications, presentations, and other professional activities. You can also find my resume and contact information if you would like to get in touch with me.{style="text-align: justify;"}
