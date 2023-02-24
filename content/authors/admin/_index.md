@@ -3,12 +3,12 @@
 title: Guillermo Lezama
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Guillermo
+last_name: Lezama
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
