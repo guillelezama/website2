@@ -1,5 +1,5 @@
 ---
-title: progress
+title: Work in Progress
 cms_exclude: true
 
 # View.
