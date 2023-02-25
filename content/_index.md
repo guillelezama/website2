@@ -219,9 +219,9 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-#  - block: contact
-#    id: contact
-#    content:
+  - block: contact
+    id: contact
+    content:
       title: Contact
       subtitle:
       text: |-
