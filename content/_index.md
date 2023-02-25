@@ -171,7 +171,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_working: true 
+        exclude_working: true
     design:
       columns: '2'
       view: citation
@@ -206,8 +206,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+#      text: |-
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: guillelezama@pitt.edu
 #      phone: 888 888 88 88
