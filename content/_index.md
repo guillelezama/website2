@@ -183,7 +183,7 @@ sections:
         folders:
           - publication
         working_only: true
-        tag: working
+        tag: Work in Progress
     design:
       columns: '2'
       view: citation
