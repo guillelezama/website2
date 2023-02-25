@@ -1,10 +1,9 @@
 ---
 title: "How Do Political Elites Respond to Mass-Migration Crises? Evidence from Venezuelan Migration to South America"
 authors:
-- admin
 - "Valentina González-Rostani"
 - "José Incio"
-date: "2023-01-01T00:00:00Z"
+- admin
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
