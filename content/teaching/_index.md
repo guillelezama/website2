@@ -11,7 +11,7 @@ layout: docs  # Do not modify.
 
 ### 
 
-**Intro to International Economics - ECON 0500** [[Syllabus]](../uploads/ECON0500_S22.pdf)
+**Intro to International Economics - ECON 0500** [[Syllabus]](../../uploads/ECON0500_S22.pdf)
 * Undergraduate, University of Pittsburgh 
 * Summer 2022
 
