@@ -189,7 +189,7 @@ sections:
         working: true
     design:
       columns: '2'
-      view: card
+      view: citation
 #  - block: collection
 #    id: talks
 #    content:
