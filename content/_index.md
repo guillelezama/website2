@@ -164,17 +164,6 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-#  - block: collection
-#    id: featured
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      columns: '2'
-#      view: card
   - block: collection
     id: publications
     content:
@@ -191,19 +180,16 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: working
     content:
       title: Work in Progress
-#      text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./progress/).
-#        {{% /callout %}}
       filters:
         folders:
-          - progress
-        exclude_featured: true
+          - publication
+        working: true
     design:
       columns: '2'
-      view: citation
+      view: card
 #  - block: collection
 #    id: talks
 #    content:
