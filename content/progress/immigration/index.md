@@ -1,10 +1,9 @@
 ---
-title: "How Do Political Elites Respond to Mass-Migration Crises? Evidence from Venezuelan Migration to South America"
+title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
 - admin
-- "Valentina González-Rostani"
-- "José Incio"
-date: "2023-01-01T00:00:00Z"
+- "Henry Willebald"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,9 +16,39 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Review of Income and Wealth,* 66(4)"
-# publication_short: ""
+publication: "*Review of Income and Wealth,* 66(4)"
+publication_short: ""
 
-abstract: "While parties may slowly adapt their political agendas, crisis events may generate marked short-term reactions by political leaders. In this paper, we examine the responses of political elites in Peru to the sudden influx of immigrants from Venezuela.  Using computational text-analysis methods over a corpus of over half million of tweets from the Peruvian legislators' cohort elected in 2016, we investigate the short-term impact of the crisis on immigration salience and politicians' positions before, during, and after the first mass south-south migration. Our estimates reveal that attention to immigration increased drastically for all parties in response to the crisis, with both right and leftist legislators contributing to its saliency. Surprisingly, most of the communication was positive, with no increase in anti-immigration statements.  However, with time all legislators used a rhetoric more similar to the right regarding the immigration issue after the shock. Moreover, we find that political leaders used strategic framing, with right-wing legislators focusing on the Venezuelan political crisis.  Our findings have important implications for policies, as well as for understanding the particularities of South-South migration and how politicians can use these crises for domestic gains."
+abstract: "We propose different alternatives of inequality estimation for economies with a big agricultural sector where land is a decisive factor in income generation and where we do not have enough information about personal earnings. To this end, we use the Uruguayan case to test our methodology. We propose six analytical exercises where Gini indexes are calculated, and as reference we choose the estimation that better adjusts to some theoretical and empirical conditions. Finally, we check the historical accuracy of the series by looking at income distribution explicative variables and the shape of the Inequality possibility frontier. Our results are consistent with the economic and social events of the period (1870–1912) and with previous estimates which reveal worsening trends in income distribution. However, our annual data allow capturing the dynamics of the process where breaks in the series are observed and improvements and declines alternate in the evolution of income distribution."
+
+tags:
+- Source Themes
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 
 ---
