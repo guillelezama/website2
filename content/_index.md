@@ -172,7 +172,7 @@ sections:
         folders:
           - publication
         exclude_working: true
-        exclude_tags: Work in Progress
+        tag: Publication
     design:
       columns: '2'
       view: citation
