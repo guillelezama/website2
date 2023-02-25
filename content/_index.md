@@ -177,6 +177,7 @@ sections:
           - publication
         exclude_featured: true
         exclude_working: true
+        
     design:
       columns: '2'
       view: citation
@@ -187,7 +188,7 @@ sections:
       filters:
         folders:
           - publication
-        working: true
+        working_only: true
         exclude_featured: true
     design:
       columns: '2'
