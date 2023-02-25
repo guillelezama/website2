@@ -28,7 +28,7 @@ working: false
 
 
 # links:
- - name: Link to Journal
+ - name: ''
  - url: https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12425
 url_pdf: ''
 url_code: ''
