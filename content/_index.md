@@ -183,6 +183,7 @@ sections:
         folders:
           - publication
         working_only: true
+        tag: working
     design:
       columns: '2'
       view: citation
