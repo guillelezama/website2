@@ -20,7 +20,7 @@ publication_types: ["3"]
 abstract: This paper explores the impact of a program that randomly audits Brazilian municipalities for their utilization of federal funds on politicians' proposals. Using 11,422 mayoral election manifestos, the results indicate that the audits led to increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. Moreover, in low-corruption cities, opposition parties discussed fewer bureaucratic issues while incumbents discussed them more. In high-corruption municipalities that were audited, incumbents used more populist language and opposition candidates adopted a more extremist language, compared to those in non-audited municipalities. These findings suggest that politicians respond to the dissemination of information about government actions by adjusting their agendas and rhetoric, although the effects vary between opposition and incumbent parties.
 
 tags:
-- Source Themes
+- Work in Progress
 featured: false
 working: true
 
