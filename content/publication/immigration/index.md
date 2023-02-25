@@ -5,6 +5,7 @@ authors:
 - "José Incio"
 - admin
 doi: ""
+show_date: false
 
 # Schedule page publish date (NOT publication's date).
 
