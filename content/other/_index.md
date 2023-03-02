@@ -11,5 +11,5 @@ layout: docs  # Do not modify.
 
 ### 
 
-** [[Recipes]](https://sites.google.com/view/recetasguille)
+### Recipes [[Link]](https://sites.google.com/view/recetasguille)
 * I have a site where I write some recipes of meals I like to cook in order to have an easy way to organize and share it:
