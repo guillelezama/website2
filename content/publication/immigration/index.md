@@ -1,7 +1,8 @@
 ---
 title: "Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis"
 authors:
-- "[José Incio](https://joseincio.com/)"
+- "Valentina González-Rostani"
+- "José Incio"
 - admin
 doi: ""
 
