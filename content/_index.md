@@ -129,6 +129,45 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
+  - block: collection
+    id: working
+    content:
+      title: Work in Progress
+      filters:
+        folders:
+          - publication
+        working_only: true
+        tag: Work in Progress
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_working: true
+        tag: Publication
+    design:
+      columns: '2'
+      view: citation
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
+#  - block: tag_cloud
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -164,45 +203,6 @@ sections:
 #        {{< gallery album="demo" >}}
 #    design:
 #      columns: '1'
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_working: true
-        tag: Publication
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: working
-    content:
-      title: Work in Progress
-      filters:
-        folders:
-          - publication
-        working_only: true
-        tag: Work in Progress
-    design:
-      columns: '2'
-      view: citation
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      columns: '2'
-#      view: compact
-#  - block: tag_cloud
-#    content:
-#      title: Popular Topics
-#    design:
-#      columns: '2'
   - block: contact
     id: contact
     content:
