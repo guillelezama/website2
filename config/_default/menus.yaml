@@ -10,8 +10,8 @@ main:
   - name: Research
     url: '#working'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Other Projects
+    url: 'projects/'
     weight: 30 
   - name: Contact
     url: '#contact'
