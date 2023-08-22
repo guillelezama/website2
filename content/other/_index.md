@@ -7,8 +7,6 @@ layout: docs  # Do not modify.
 #   caption: ""
 #   image: ""
 ---
-# Other
-
 ### 
 
 ### Recipes [[Link]](https://sites.google.com/view/recetasguille)
