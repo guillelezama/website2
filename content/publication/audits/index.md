@@ -1,5 +1,5 @@
 ---
-title: "Do Government Audits Affect Campaign Communication?"
+title: "Information About Corruption and Politicians' Proposals"
 authors:
 - admin
 doi: ""
@@ -17,7 +17,7 @@ publication_types: ["3"]
 # publication: "*Review of Income and Wealth,* 66(4)"
 # publication_short: ""
 
-abstract: This paper explores the impact of a program that randomly audits Brazilian municipalities for their utilization of federal funds on politicians' proposals. Using 11,422 mayoral election manifestos, the results indicate that the audits led to increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. Moreover, in low-corruption cities, opposition parties discussed fewer bureaucratic issues while incumbents discussed them more. In high-corruption municipalities that were audited, incumbents used more populist language and opposition candidates adopted a more extremist language, compared to those in non-audited municipalities. These findings suggest that politicians respond to the dissemination of information about government actions by adjusting their agendas and rhetoric, although the effects vary between opposition and incumbent parties.
+abstract: This paper explores the impact of information about corruption on politicians' proposals. Using text analysis on 13,344 manifestos from the mayoral election during the 2012 elections in Brazil, this study investigates whether audits about the use of public funds affected the discussion of policy areas subject to scrutiny. The results indicate that audits led to an increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. Furthermore, incumbents in high-corruption cities respond to the audit decreasing the discussion of the policy areas covered by the audit. In audited high-corruption municipalities, incumbents employ more populist language. Opposition candidates in low-corruption municipalities tend to adopt less extreme and populist language than their counterparts in non-audited low-corruption municipalities. These findings contribute to our understanding of how information on corruption in public expenditures influences politicians' agendas and the ideological framework of their proposals. 
 
 tags:
 - Work in Progress
