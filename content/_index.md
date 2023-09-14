@@ -141,14 +141,12 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: publications
+  - id: publications
     content:
       title: Publications
       filters:
         folders:
           - publication
-#        exclude_working: true
         tag: Publication
     design:
       columns: '2'
