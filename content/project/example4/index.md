@@ -1,5 +1,5 @@
 ---
-title: Mineral Water Purchases by the Uruguayan Gov't while the Water Crisis (2023)
+title: Mineral Water Purchases by the Uruguayan Gov't during the Water Crisis (2023)
 summary: Project to learn about government purchases of mineral water during a water crisis in Uruguay
 tags:
   - python
