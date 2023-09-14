@@ -141,7 +141,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - id: publications
+    id: publications
     content:
       title: Publications
       filters:
