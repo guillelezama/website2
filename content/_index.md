@@ -132,7 +132,7 @@ sections:
   - block: collection
     id: working
     content:
-      title: Work in Progress
+      title: Work in Progress2
       filters:
         folders:
           - publication
