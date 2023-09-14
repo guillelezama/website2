@@ -141,6 +141,7 @@ sections:
     design:
       columns: '2'
       view: citation
+    
     id: publications
     content:
       title: Publications
@@ -151,6 +152,7 @@ sections:
     design:
       columns: '2'
       view: citation
+    
     id: projects
     content:
       title: Projects
