@@ -132,10 +132,10 @@ sections:
   - block: collection
     id: working
     content:
-      title: Work in Progress2
+      title: Work in Progress
       filters:
         folders:
-          - publication
+          - working
         working_only: true
         tag: Work in Progress
     design:
@@ -148,7 +148,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_working: true
+#        exclude_working: true
         tag: Publication
     design:
       columns: '2'
