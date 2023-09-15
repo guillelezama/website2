@@ -30,4 +30,6 @@ tags:
 featured: false
 working: true
 
+url_pdf: https://drive.google.com/file/d/1yyzdTdLjGKS9GWgn0CE0Cffig2w-J2JM/view
+
 ---
