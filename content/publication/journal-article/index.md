@@ -3,6 +3,7 @@ title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
 - admin
 - Henry Willebald
+- [[www.google.com]]
 
 date: "2020-01-01T00:00:00Z"
 do****i: ""
