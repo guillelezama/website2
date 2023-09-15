@@ -1,14 +1,9 @@
 ---
 title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
-[
-"[Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)",
-"[Victor A. Ying](/)",
-"[Suvinay Subramanian](https://people.csail.mit.edu/suvinay/)",
-"Hyun Ryong Lee",
-"[Joel Emer](https://people.csail.mit.edu/emer/)",
-"[Daniel Sanchez](https://people.csail.mit.edu/sanchez/)",
-]
+- admin
+- Henry Willebald
+- https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12425
 
 date: "2020-01-01T00:00:00Z"
 do****i: ""
