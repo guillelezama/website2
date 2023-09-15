@@ -3,6 +3,7 @@ title: "Inequality in pre‐income survey times: a methodological proposal"
 authors:
 - admin
 - "[Henry Willebald](https://www.henrywillebald.uy/)"
+- "[Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/)"
 date: "2020-01-01T00:00:00Z"
 do****i: ""
 
