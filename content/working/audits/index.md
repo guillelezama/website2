@@ -27,7 +27,7 @@ working: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://guillelezama.netlify.app/uploads/jmp.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
