@@ -17,7 +17,7 @@ publication_types: ["3"]
 # publication: "*Review of Income and Wealth,* 66(4)"
 # publication_short: ""
 
-abstract: This paper explores the impact of information about corruption on politicians' proposals. Using text analysis on 13,344 manifestos from the mayoral election during the 2012 elections in Brazil, this study investigates whether audits about the use of public funds affected the discussion of policy areas subject to scrutiny. The results indicate that audits led to an increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. Furthermore, incumbents in high-corruption cities respond to the audit decreasing the discussion of the policy areas covered by the audit. In audited high-corruption municipalities, incumbents employ more populist language. Opposition candidates in low-corruption municipalities tend to adopt less extreme and populist language than their counterparts in non-audited low-corruption municipalities. These findings contribute to our understanding of how information on corruption in public expenditures influences politicians' agendas and the ideological framework of their proposals. 
+abstract: This paper explores the impact of information about corruption on politicians' proposals. Using text analysis on 13,344 manifestos from the 2012 mayoral elections in Brazil, this study examines how revealing corruption through audits of public funds influenced discussions on the policy areas under scrutiny. The results indicate that the disclosure of these irregularities led to an increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. However, incumbents in high-corruption cities respond to this disclosure, decreasing the discussion of the policy areas covered by the audit. In high-corruption municipalities, disclosing irregularities made incumbents to employ more populist language. In municipalities with high corruption, disclosing irregularities caused incumbents to use more populist language. Meanwhile, opposition candidates in low-corruption municipalities adopted less extreme and populist language than their counterparts in non-audited, low-corruption municipalities. These findings contribute to our understanding of how information on corruption in public expenditures influences politicians' agendas and the ideological framework of their proposals. 
 
 tags:
 - Work in Progress
@@ -27,7 +27,7 @@ working: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://guillelezama.netlify.app/uploads/jmp.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
