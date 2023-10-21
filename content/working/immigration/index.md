@@ -22,7 +22,7 @@ publication_types: ["3"]
 abstract: "This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration."
 
 tags:
-- Work in Progress
+- Working Papers
 featured: false
 working: true
 
