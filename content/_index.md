@@ -147,8 +147,8 @@ sections:
       title: Work in Progress
       filters:
         folders:
-          - working2
-        working_only: true
+          - working
+        working2_only: true
         tag: Work in Progress
     design:
       columns: '2'
