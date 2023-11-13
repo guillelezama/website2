@@ -1,5 +1,5 @@
 ---
-title: "Social Media vs. Surveys: A New Scalable Approach to Understanding Political Discourse.
+title: "Social Media vs. Surveys: A New Scalable Approach to Understanding Political Discourse."
 - "Valentina González-Rostani"
 - "José Incio"
 - admin
@@ -24,6 +24,4 @@ tags:
 - Working Papers
 featured: false
 working: true
-
-url_pdf:
 ---
