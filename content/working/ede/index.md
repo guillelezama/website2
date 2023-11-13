@@ -26,7 +26,7 @@ publication_types: ["3"]
 abstract: "Experimenter demand is a clear threat to the validity of experimental results. To understand the extent of this threat for lab studies, we apply the quantitative framework from deQuidt et. al 2018 to explore whether experimenter demand can generate flawed qualitative inference in experimental studies,  using four classic behavioral findings. In these four settings, we examine the extent to which demand can alter the nature of a comparative-static conclusion, a stronger test of the potential distortions resulting from experimenter demand. Starting with the laboratory population, we demonstrate that even in a stark environment with deliberate researcher attempts to manipulate participant behavior, quantitative effects are small, and experimenter demand effects are not large enough to impact the core qualitative inferences in our four experimental comparisons. This result is then extended to two commonly used online populations, Prolific and mTurk--which show larger quantitative demand effects, but again, not large enough to alter the qualitative conclusions."
 
 tags:
-- Work in Progress
+- Working Papers
 featured: false
 working: true
 

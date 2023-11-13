@@ -132,11 +132,23 @@ sections:
   - block: collection
     id: working
     content:
-      title: Work in Progress
+      title: Working Papers
       filters:
         folders:
           - working
         working_only: true
+        tag: Working Papers
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: working2
+    content:
+      title: Work in Progress
+      filters:
+        folders:
+          - working
+        working2_only: true
         tag: Work in Progress
     design:
       columns: '2'
