@@ -1,5 +1,6 @@
 ---
 title: "Social Media vs. Surveys: A New Scalable Approach to Understanding Political Discourse"
+authors:
 - "Valentina González-Rostani"
 - "José Incio"
 - admin
@@ -24,5 +25,7 @@ tags:
 - Working Papers
 featured: false
 working: true
+
+#url_pdf: https://guillelezama.netlify.app/uploads/immigration.pdf
 
 ---
