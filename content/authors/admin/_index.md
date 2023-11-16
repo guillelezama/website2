@@ -86,7 +86,7 @@ highlight_name: true
 Welcome to my personal website! I am a fifth-year Ph.D. Candidate in Economics at the University of Pittsburgh. I was born and raised in Uruguay, where I also completed my undergraduate studies and a Master's in International Economics at the Universidad de la República (Udelar).
 {style="text-align: justify;"}
 
-My research interests lie in the field of Political Economy, specifically in the different approaches that can be used to address Political Economy questions. I am particularly interested in the application of text-learning methods and applied microeconomics to study political economy.
+My research interests lie in the field of Political Economy, particularly in exploring different methods to address questions in this area.  I am particularly interested in the application of text-learning methods and applied microeconomics to study political economy.
 {style="text-align: justify;"}
 
 As you navigate through my website, you will find information about my research, publications, presentations, and other professional activities. You can also find my resume and contact information if you would like to get in touch with me.
