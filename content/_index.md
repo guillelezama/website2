@@ -135,7 +135,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - working
+          - publication
         working_only: true
         tag: Working Papers
     design:
@@ -147,7 +147,7 @@ sections:
       title: Work in Progress
       filters:
         folders:
-          - working
+          - publication
         working2_only: true
         tag: Work in Progress
     design:
