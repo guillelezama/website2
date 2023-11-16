@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "We propose different alternatives of inequality estimation for economies with a big agricultural sector where land is a decisive factor in income generation and where we do not have enough information about personal earnings. To this end, we use the Uruguayan case to test our methodology. We propose six analytical exercises where Gini indexes are calculated, and as reference we choose the estimation that better adjusts to some theoretical and empirical conditions. Finally, we check the historical accuracy of the series by looking at income distribution explicative variables and the shape of the Inequality possibility frontier. Our results are consistent with the economic and social events of the period (1870–1912) and with previous estimates which reveal worsening trends in income distribution. However, our annual data allow capturing the dynamics of the process where breaks in the series are observed and improvements and declines alternate in the evolution of income distribution."
 
 tags:
-- Publication
+- Working Papers
 featured: false
 working: True
 
