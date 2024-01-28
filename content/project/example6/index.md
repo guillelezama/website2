@@ -7,7 +7,7 @@ tags:
 date: "2024-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: [Vote Data Query](https://guarded-basin-84393-47f3b0873270.herokuapp.com/)
+external_link: https://guarded-basin-84393-47f3b0873270.herokuapp.com/
 
 image: 
   caption: Graphs made by the author
