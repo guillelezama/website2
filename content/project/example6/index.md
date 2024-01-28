@@ -1,6 +1,6 @@
 ---
 title: Uruguayan Elections
-summary:  I am processing electoral data from Uruguay. I have created a Heroku app so that you can get the results from your precinct in the last elections using your ID. I have also computed the differences for each precinct between the last two elections (see picture: Precincts highlighted are the ones from my city, Las Piedras).
+summary:  I am processing electoral data from Uruguay. I have created a Heroku app so that you can get the results from your precinct in the last elections using your ID. I have also computed the differences for each precinct between the last two elections (see picture; The Precincts highlighted are the ones from my city, Las Piedras).
 tags:
 - python
 - elections
