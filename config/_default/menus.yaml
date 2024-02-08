@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '#working'
     weight: 20
-  - name: Other Projects
+  - name: Coding Portfolio
     url: 'project/'
     weight: 30 
   - name: Contact
@@ -27,3 +27,6 @@ main:
   - name: CV
     url: uploads/cv.pdf
     weight: 80
+  - name: Resume
+    url: uploads/Resume_Lezama_24.pdf
+    weight: 90
