@@ -6,21 +6,21 @@ This project focuses on processing electoral data from Uruguay. It aims to provi
 
 ## Features
 
-- **Election Results by Precinct:** Enter your ID to view the election results for your precinct in the latest elections.
-- **Trend Analysis:** I have also analyzed changes in election outcomes by precinct between the most recent two elections (2014 and 2019). The precincts highlighted are specifically from Las Piedras, indicating a focused analysis on this area.
+- **Election Results by Precinct** Enter your ID to view the election results for your precinct in the latest elections.
+- **Trend Analysis** I have also analyzed changes in election outcomes by precinct between the most recent two elections (2014 and 2019). The precincts highlighted are specifically from Las Piedras, indicating a focused analysis on this area.
 
 ![Election Data Analysis](picture-link-here)  
-*Note: The precincts highlighted are from the city of Las Piedras (my hometown).*
+*Note. The precincts highlighted are from the city of Las Piedras (my hometown).*
 
 ## Access the Application
 
-To use the application and explore the election data, please visit the following link:
+To use the application and explore the election data, please visit the following link.
 
 [Heroku App - Electoral Data Analysis for Uruguay](https://guarded-basin-84393-47f3b0873270.herokuapp.com/)
 
 ## Source Code
 
-The source code for this project is available on GitHub. Feel free to explore the codebase, contribute, or use it as a reference for similar projects:
+The source code for this project is available on GitHub. Feel free to explore the codebase, contribute, or use it as a reference for similar projects.
 
 [GitHub Repository - elecciones_UY](https://github.com/guillelezama/elecciones_UY)
 
