@@ -8,7 +8,7 @@ tags:
 date: "2024-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: github.com/guillelezama/elecciones_UY
+external_link: https://github.com/guillelezama/elecciones_UY
 
 image: 
   caption: Graphs made by the author
