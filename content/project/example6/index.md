@@ -16,13 +16,13 @@ This project focuses on processing electoral data from Uruguay. It aims to provi
 
 To use the application and explore the election data, please visit the following link.
 
-[Heroku App - Electoral Data Analysis for Uruguay](https://guarded-basin-84393-47f3b0873270.herokuapp.com/)
+[Heroku App - Electoral Data Analysis for Uruguay](guarded-basin-84393-47f3b0873270.herokuapp.com/)
 
 ## Source Code
 
 The source code for this project is available on GitHub. Feel free to explore the codebase, contribute, or use it as a reference for similar projects.
 
-[GitHub Repository - elecciones_UY](https://github.com/guillelezama/elecciones_UY)
+[GitHub Repository - elecciones_UY](github.com/guillelezama/elecciones_UY)
 
 tags:
 - python
