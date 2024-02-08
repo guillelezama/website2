@@ -1,7 +1,6 @@
 ---
 title: Uruguayan Elections
-summary: 
-This project focuses on processing electoral data from Uruguay. It aims to provide a user-friendly way to access election results by precinct, leveraging a custom-built web application hosted on Heroku. Users can easily obtain results from their precinct in the most recent elections by entering their ID. Additionally, the application offers insights into the voting trends by computing and presenting the differences in election results by precinct between the last two elections.
+summary: This project focuses on processing electoral data from Uruguay. It aims to provide a user-friendly way to access election results by precinct, leveraging a custom-built web application hosted on Heroku. Users can easily obtain results from their precinct in the most recent elections by entering their ID. Additionally, the application offers insights into the voting trends by computing and presenting the differences in election results by precinct between the last two elections.
 
 ## Features
 
