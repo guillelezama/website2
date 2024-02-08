@@ -1,6 +1,29 @@
 ---
 title: Uruguayan Elections
-summary:  I am processing electoral data from Uruguay. I have created a Heroku app so that you can get the results from your precinct in the last elections using your ID. I have also computed the differences for each precinct between the last two elections (see picture; The Precincts highlighted are the ones from my city, Las Piedras).
+summary: 
+
+This project focuses on processing electoral data from Uruguay. It aims to provide a user-friendly way to access election results by precinct, leveraging a custom-built web application hosted on Heroku. Users can effortlessly obtain results from their precinct in the most recent elections by simply entering their ID. Additionally, the application offers insights into the voting trends by computing and presenting the differences in election results by precinct between the last two elections.
+
+## Features
+
+- **Election Results by Precinct:** Enter your ID to view the election results for your precinct in the latest elections.
+- **Trend Analysis:** I have also analyzed changes in election outcomes by precinct between the most recent two elections (2014 and 2019). The precincts highlighted are specifically from Las Piedras, indicating a focused analysis on this area.
+
+![Election Data Analysis](picture-link-here)  
+*Note: The precincts highlighted are from the city of Las Piedras (my hometown).*
+
+## Access the Application
+
+To use the application and explore the election data, please visit the following link:
+
+[Heroku App - Electoral Data Analysis for Uruguay](https://guarded-basin-84393-47f3b0873270.herokuapp.com/)
+
+## Source Code
+
+The source code for this project is available on GitHub. Feel free to explore the codebase, contribute, or use it as a reference for similar projects:
+
+[GitHub Repository - elecciones_UY](https://github.com/guillelezama/elecciones_UY)
+
 tags:
 - python
 - elections
