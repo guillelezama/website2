@@ -16,7 +16,7 @@ publishDate: "2023-02-24T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: _(Submitted)_
+publication: _(R&R at The Legislative Studies Quarterly)_
 # publication_short: ""
 
 abstract: "This paper explores how legislators use social media, specifically investigating whether their posts reflect the concerns expressed by their legislative party peers in an anonymous survey. Utilizing data from Twitter, we compare legislators' social media posts with their responses in a survey of legislators in Latin America. We propose a novel, and scalable method for analyzing political communications, employing OpenAI for topic identification in statements and BERTopic analysis to identify clusters of political communication. This approach enables a thorough and detailed examination of these topics over time and across political parties. Applying our method to statements made by members of the Chilean Congress, we observe a general alignment between the preferences stated in surveys by elites and the prominence of these issues on Twitter. This result validates Twitter as a tool for predicting politicians' preferences. Our methodological approach offers a scalable tool for analyzing political rhetoric over time."
