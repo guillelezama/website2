@@ -1,5 +1,5 @@
 ---
-title: "Political Agenda Shaping and Differentiation in Response to Unprecedented Shocks: The Venezuelan Migration Crisis"
+title: "Immigration Shocks and Politicians’ Rhetoric: Evidence from The Venezuelan Migration Crisis"
 authors:
 - "Valentina González-Rostani"
 - "José Incio"
@@ -7,7 +7,7 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-25T00:00:00Z"
+publishDate: "2024-02-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 # publication: "*Review of Income and Wealth,* 66(4)"
 # publication_short: ""
 
-abstract: "This study examines how political parties respond to an unprecedented shock that dramatically changes the importance of a particular issue on their agendas. We investigate whether political parties develop distinct policy agendas in an area that previously received minimal attention but, due to the shock, becomes one of the primary concerns among the public. The study analyzes the Venezuelan crisis, which has resulted in a significant influx of over 6.1 million immigrants to Latin American countries unaccustomed to such flows, posing a unique challenge. Using computational text-analysis methods applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, our findings demonstrate that all party families increase the salience of the immigration issue without remarkable differences. Additionally, within the context of this issue, no party family claims exclusive ownership of matters related to immigrants' identity or country of origin (such as Venezuela), crime, or employment concerns. Instead, parties differentiate, employing distinct vocabularies aligned with their ideologies, and emphasizing different aspects. These findings have significant implications for understanding the transformative power of unexpected events that emerge as new topics on the political agenda, particularly within the context of the emerging phenomenon of South-South migration."
+abstract: "This paper examines how politicians respond to an unprecedented shock that dramatically alters the importance of a specific issue on their agendas. It focuses on the effects of the Venezuelan crisis, which has led to a significant influx of over 6.1 million immigrants into Latin American countries. Utilizing computational text-analysis methods such as Wordscores, unsupervised topic analysis, and OpenAI's API, applied to a corpus of over 3 million tweets from Chilean and Peruvian parliament members between 2013 and 2021, we identify statements about immigration, their stances (pro or anti-immigration), ideologies, and the framing used. We find that all party families increase the salience of the immigration issue without notable differences independent of the geographic exposure to the shock. Additionally, we find a positive causal link between the size of the immigrant population in the electoral district and the publication of pro-immigration statements on Twitter, primarily originating from left-wing politicians. However, we also document null effects of politicians' exposure to more immigrants in their districts on the number of tweets about immigration. Employing other NLP techniques, we explore and provide suggestive evidence that parties use distinct vocabularies aligned with their ideologies and emphasize different aspects when discussing immigration. This study contributes to understanding political behavior and communication strategies in the face of demographic changes, offering insights into how economic and social pressures influence policy discourse and public opinion formation in emerging economies."
 
 tags:
 - Working Papers
