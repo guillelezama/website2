@@ -10,6 +10,9 @@ layout: docs  # Do not modify.
 # Lead Instructor
 
 ### 
+**Exploratory Data Analysis** 
+* Post-Graduate Specialization in Data Science, Universidad de la República
+* Summer 2024, Hybrid course. 
 
 **Intro to International Economics - ECON 0500** 
 * Undergraduate, University of Pittsburgh 
