@@ -1,13 +1,13 @@
 ---
-title: "Simon Doesn't Say: Minimal Qualitative Distortions from Experimenter Demand"
+title: "The Effect of Experimenter Demand on Inference"
 authors:
-- "David Danz"
-- "Marissa Lepper"
+- "K. Pun Winichakul (random order)"
 - admin
 - "Priyoma Mustafi"
-- "Lise Vesterlund"
+- "Marissa Lepper"
 - "Alistair Wilson"
-- "K. Pun Winichakul"
+- "David Danz"
+- "Lise Vesterlund"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
