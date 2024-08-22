@@ -11,7 +11,7 @@ layout: docs  # Do not modify.
 
 ### 
 **Exploratory Data Analysis** 
-* Post-Graduate Specialization in Data Science, Universidad de la República
+* Specialization Diploma in Data Science (graduate level), Universidad de la República
 * Summer 2024, Hybrid course. 
 
 **Intro to International Economics - ECON 0500** 
