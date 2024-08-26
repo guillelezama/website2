@@ -23,13 +23,13 @@ publication_types: ["3"]
 # publication: _(Submitted)_
 # publication_short: ""
 
-abstract: "Experimenter demand is a clear threat to the validity of experimental results. To understand the extent of this threat for lab studies, we apply the quantitative framework from deQuidt et. al 2018 to explore whether experimenter demand can generate flawed qualitative inference in experimental studies,  using four classic behavioral findings. In these four settings, we examine the extent to which demand can alter the nature of a comparative-static conclusion, a stronger test of the potential distortions resulting from experimenter demand. Starting with the laboratory population, we demonstrate that even in a stark environment with deliberate researcher attempts to manipulate participant behavior, quantitative effects are small, and experimenter demand effects are not large enough to impact the core qualitative inferences in our four experimental comparisons. This result is then extended to two commonly used online populations, Prolific and mTurk--which show larger quantitative demand effects, but again, not large enough to alter the qualitative conclusions."
+abstract: "To assess the threat of experimenter demand, we ask whether a hypothetical ‘ill-intentioned’ researcher can manipulate inference. Four classic behavioral comparative statics are evaluated, and the potential for false inference is gauged by differentially applying strong positive and negative experimenter demand across the relevant decision pair. Evaluating three different subject pools (laboratory, Prolific, and MTurk) we find no evidence of experimenter demand eliminating or reversing directional effects. The response to experimenter demand is very limited for all three subject pools and is not large enough to generate false negatives, though we do find evidence of false positives when testing precise nulls in larger online-subject pools."
 
 tags:
 - Working Papers
 featured: false
 working: true
 
-url_pdf: https://drive.google.com/file/d/1yyzdTdLjGKS9GWgn0CE0Cffig2w-J2JM/view
+url_pdf: https://drive.google.com/file/d/15QF1_RHxz5cqgrXEn3ZCx4vQ6cT_93RR/view
 
 ---
