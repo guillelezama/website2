@@ -12,6 +12,7 @@ layout: docs  # Do not modify.
 ### 
 **Exploratory Data Analysis** 
 * Specialization Diploma in Data Science (graduate level), Universidad de la República
+* Python-based
 * Summer 2024, Hybrid course. 
 
 **Intro to International Economics - ECON 0500** 
