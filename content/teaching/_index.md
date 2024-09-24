@@ -11,9 +11,10 @@ layout: docs  # Do not modify.
 
 ### 
 **Exploratory Data Analysis** 
-* Specialization Diploma in Data Science (graduate level), Universidad de la República
+* Specialization in Economics, Data Science Option (graduate level), Universidad de la República
 * Python-based
 * Summer 2024, Hybrid course. 
+* Course Materials: Notebooks and Homeworks [[GitHub]](https://github.com/guillelezama/eda_course)
 
 **Intro to International Economics - ECON 0500** 
 * Undergraduate, University of Pittsburgh 
