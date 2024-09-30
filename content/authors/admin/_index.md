@@ -83,7 +83,7 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-Welcome to my personal website! I am a sixth-year Ph.D. Candidate in Economics at the University of Pittsburgh. My research interests lie in the field of Development and Political Economy, particularly in exploring different methods to address questions in this area.  I am particularly interested in the application of text-learning methods, computational social science, and applied microeconomics to issues such as the effects of corruption or sudden migration flows on politicians' rhetoric.
+Welcome to my personal website! I am a sixth-year Ph.D. Candidate in Economics at the University of Pittsburgh. My research interests lie in the field of Development and Political Economy, particularly in exploring different methods to address questions in this area.  I am particularly interested in the application of text-learning and computational social science methods, and applied microeconomics to issues such as the effects of corruption or sudden migration flows on politicians' rhetoric.
 {style="text-align: justify;"}
 
 I was born and raised in Uruguay, where I also completed my undergraduate studies and a Master's in International Economics at the Universidad de la República (Udelar).
