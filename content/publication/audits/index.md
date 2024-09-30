@@ -14,7 +14,7 @@ publishDate: "2024-08-20T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Review of Income and Wealth,* 66(4)"
+publication: "[Job Market Paper]"
 # publication_short: ""
 
 abstract: "This paper explores the impact of information about corruption on politicians' proposals. Using text analysis on 13,344 manifestos from the 2012 mayoral elections in Brazil, this study examines how revealing corruption through audits of public funds influenced discussions on the policy areas under scrutiny. The results indicate that the disclosure of these irregularities led to an increased discussion of the policy areas covered by the audit by opposition parties in high-corruption cities. However, incumbents in high-corruption cities respond to this disclosure, decreasing the discussion of the policy areas covered by the audit. In high-corruption municipalities, disclosing irregularities made incumbents to employ more populist language. In municipalities with high corruption, disclosing irregularities caused incumbents to use more populist language. Meanwhile, opposition candidates in low-corruption municipalities adopted less extreme and populist language than their counterparts in non-audited, low-corruption municipalities. These findings contribute to our understanding of how information on corruption in public expenditures influences politicians' agendas and the ideological framework of their proposals."
