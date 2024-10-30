@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#working'
+    url: '#jmp'
     weight: 20
   - name: Coding Portfolio
     url: 'project/'

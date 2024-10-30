@@ -22,7 +22,8 @@ abstract: "This paper explores the impact of information about corruption on pol
 tags:
 - Working Papers
 featured: false
-working: true
+working: false
+jmp: true
 
 # links:
 # - name: ""

@@ -130,6 +130,18 @@ sections:
 #      view: compact
 #      columns: '2'
   - block: collection
+    id: jmp
+    content:
+      title: Job Market Paper
+      filters:
+        folders:
+          - publication
+        jmp: true
+        tag: Working Papers
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: working
     content:
       title: Working Papers
