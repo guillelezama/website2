@@ -137,7 +137,7 @@ sections:
         folders:
           - publication
         jmp: true
-        tag: Working Papers
+        tag: jmp
     design:
       columns: '2'
       view: citation
