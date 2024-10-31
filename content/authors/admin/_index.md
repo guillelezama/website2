@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Pittsburgh
-      year: 2024 (expected)
+      year: 2025 (expected)
     - course: MA in Economics
       institution: University of Pittsburgh
       year: 2020
@@ -85,13 +85,13 @@ highlight_name: true
 
 <p style="text-align: center;"><strong>I am on the Job Market AY 2024-25!</strong></p>
 
-Welcome to my personal website! I am a sixth-year Ph.D. Candidate in Economics at the University of Pittsburgh. My research interests lie in the field of Development and Political Economy, particularly in exploring different methods to address questions in this area.  I am particularly interested in the application of text-learning and computational social science methods, and applied microeconomics to issues such as the effects of corruption or sudden migration flows on politicians' rhetoric.
+Welcome to my personal website! I am a sixth-year Ph.D. Candidate in Economics at the University of Pittsburgh. My research interests lie in the field of Applied Microeconomics and Political Economy, particularly in exploring different methods to address questions in this area.  I am particularly interested in the application of NLP, Machine Learning, and causal inference methods to issues such as the effects of corruption or sudden migration flows on politicians' rhetoric.
 {style="text-align: justify;"}
 
 I was born and raised in Uruguay, where I also completed my undergraduate studies and a Master's in International Economics at the Universidad de la República (Udelar).
 {style="text-align: justify;"}
 
-As you navigate through my website, you will find information about my research, publications, presentations, and other professional activities. You can also explore my coding portfolio and visit my <a href="https://github.com/guillelezama">GitHub</a> to see examples of my work.
+As you navigate through my website, you will find information about my research, publications, presentations, teaching, and other professional activities. You can also explore my coding portfolio and visit my <a href="https://github.com/guillelezama">GitHub</a> to see examples of my work.
 {style="text-align: justify;"}. You can find my resume and contact information if you would like to get in touch with me.
 {style="text-align: justify;"}
 
