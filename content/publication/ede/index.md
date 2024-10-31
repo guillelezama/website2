@@ -29,6 +29,7 @@ tags:
 - Working Papers
 featured: false
 working: true
+jmp: false
 
 url_pdf: https://drive.google.com/file/d/15QF1_RHxz5cqgrXEn3ZCx4vQ6cT_93RR/view
 
