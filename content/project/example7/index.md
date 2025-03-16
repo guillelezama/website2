@@ -4,7 +4,7 @@ summary: This project is part of my dissertation research, investigating how cor
 
 tags:
 - python
-date: "2022-10-27T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://github.com/guillelezama/manifestos
