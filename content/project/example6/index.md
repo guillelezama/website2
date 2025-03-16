@@ -14,3 +14,14 @@ image:
   caption: Graphs made by the author
   focal_point: Smart
 ---
+
+## Resources
+
+<p align="center">
+  <a href="https://github.com/guillelezama/elecciones_UY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub Repo">
+  </a>
+  <a href="https://your-link-to-slides.com" target="_blank">
+    <img src="https://img.shields.io/badge/Slides-Presentation-green?logo=google-slides" alt="Slides">
+  </a>
+</p>
