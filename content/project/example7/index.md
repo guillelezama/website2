@@ -1,6 +1,6 @@
 ---
 title: Exploring the Impact of Corruption on Political Proposals. A Text Classification Problem
-summary: aa
+summary: **[GitHub Repository](https://github.com/guillelezama/manifestos) | [Slides](https://github.com/guillelezama/manifestos/blob/main/slides_text_classification.pdf) | [Paper](https://guillelezama.netlify.app/uploads/jmp.pdf)**
 
 tags:
 - python
