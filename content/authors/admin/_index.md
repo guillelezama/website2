@@ -26,7 +26,6 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Political Economy
   - Text Analysis
   - Applied Microeconomics
 
@@ -35,7 +34,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: University of Pittsburgh
-      year: 2025 (expected)
+      year: 2025 
     - course: MA in Economics
       institution: University of Pittsburgh
       year: 2020
@@ -53,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:guillelezama@pitt.edu"
+    link: "mailto:guillelezama@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillelezama
@@ -83,12 +82,11 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-<p style="text-align: center;"><strong>I am on the Job Market AY 2024-25!</strong></p>
+Welcome to my website! I am an Economist at Amazon. I recently earned my Ph.D. in Economics from the University of Pittsburgh, where I specialized in Applied Microeconomics and Political Economy.
 
-Welcome to my website! I am a Ph.D. Candidate in Economics at the University of Pittsburgh, specializing in Applied Microeconomics and Political Economy. I employ NLP, Machine Learning, and causal inference methods to study how economic and political shifts influence political rhetoric and behavior. My research includes examining politicians' responses to corruption and immigration shocks, their engagement on social media, the effects of penalties from OFAC on firms, and environmentally friendly consumption patterns in response to extreme weather events. Through this work, I am committed to interdisciplinary, data-driven social science research.
-{style="text-align: justify;"}
+During my Ph.D., I employed natural language processing (NLP), machine learning, and causal inference methods to study how economic and political dynamics influence political rhetoric and behavior. My research explored how politicians respond to corruption scandals and immigration shocks, their engagement on social media, and the effects of OFAC penalties on firms. {style="text-align: justify;"}
 
-I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s in International Economics at the Universidad de la República (Udelar). My background includes an internship at Amazon and extensive experience in research, teaching, and advising both a politician and a college dean.
+I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s in International Economics at the Universidad de la República (Udelar). My background also includes teaching, research collaborations, and advising both a politician and a college dean.
 {style="text-align: justify;"}
 
 As you navigate through my website, you will find information about my research, publications, presentations, teaching, and other professional activities. You can also explore my coding portfolio and visit my <a href="https://github.com/guillelezama">GitHub</a> to see examples of my work.
