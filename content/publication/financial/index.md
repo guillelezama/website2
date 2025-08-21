@@ -1,9 +1,9 @@
 ---
-title: "Can Sanctions Deter Illegal Financial Transactions?"
+title: "Sanctions, Reputational Losses and Salience"
 authors:
 - "Dan Berkowitz"
 - admin
-- "Laura Liu"
+- "Claire Nackley"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,12 +19,13 @@ publication_types: ["3"]
 # publication: "*Review of Income and Wealth,* 66(4)"
 # publication_short: ""
 
-abstract: "The Office of Foreign Assets Control (OFAC) within the US government has the authority to issue civil penalties to companies for engaging in business transactions with foreign countries sanctioned by the US government. Announcements of OFAC civil penalties are generally unanticipated because they are made only after OFAC had completed its investigation. Using data for listed financial companies, we find that there were no announcement effects for firms that engaged with “bad” countries such as Russia and Iran. However, consistent with the prediction that large penalties can deter illegal activity (Gary Becker, 1968), we find that the upper quartiles of penalties had reputation costs where the loss in market value exceeded legal costs. Additional predictors of reputation costs include penalties jointly enforced by OFAC and the Department of Justice and activities that are considered “egregious.”"
+abstract: "We evaluate the enforcement of sanctions regulations by the United States regulatory agency, the Office of Foreign Assets Control (OFAC), on a penalized company’s reputational losses. OFAC has a public website, which announces a company’s violation/violations and penalty only after it has successfully completed its investigations. We document that OFAC penalty announcements were “news” during 2003-2023. When the OFAC agency was salient (i.e. frequently searched on the internet) an above median penalty was associated reputational losses that were 1.1, 1.9, 3.0
+and 6.2 times the size of a penalty during market windows of one, two, five and nine trading days around the announcement, respectively. However, there were no reputational losses when salience was low, even when large penalties are included."
 
 tags:
-- Work in Progress
+- Working Papers
 featured: false
-working: false
-working2: true
+working: true
+jmp: false
 
 ---
