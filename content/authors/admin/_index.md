@@ -83,8 +83,10 @@ highlight_name: true
 ---
 
 Welcome to my website! I am an Economist at Amazon. I recently earned my Ph.D. in Economics from the University of Pittsburgh, where I specialized in Applied Microeconomics and Political Economy.
+{style="text-align: justify;"}
 
-During my Ph.D., I employed natural language processing (NLP), machine learning, and causal inference methods to study how economic and political dynamics influence political rhetoric and behavior. My research explored how politicians respond to corruption scandals and immigration shocks, their engagement on social media, and the effects of OFAC penalties on firms. {style="text-align: justify;"}
+During my Ph.D., I employed natural language processing (NLP), machine learning, and causal inference methods to study how economic and political dynamics influence political rhetoric and behavior. My research explored how politicians respond to corruption scandals and immigration shocks, their engagement on social media, and the effects of OFAC penalties on firms.
+{style="text-align: justify;"}
 
 I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s in International Economics at the Universidad de la República (Udelar). My background also includes teaching, research collaborations, and advising both a politician and a college dean.
 {style="text-align: justify;"}
