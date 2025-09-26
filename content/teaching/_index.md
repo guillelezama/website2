@@ -10,6 +10,12 @@ layout: docs  # Do not modify.
 # Lead Instructor
 
 ### 
+**Unstructured Data** 
+* Specialization in Economics, Data Science Option (graduate level), Universidad de la República
+* Python-based
+* Summer 2025, Remote course. 
+* Course Materials: Syllabus, Slides, and Notebooks [[GitHub]](https://github.com/guillelezama/unstructured-data-course)
+
 **Exploratory Data Analysis** 
 * Specialization in Economics, Data Science Option (graduate level), Universidad de la República
 * Python-based
