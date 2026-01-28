@@ -82,16 +82,17 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-Welcome to my website! I am an Economist at Amazon. I recently earned my Ph.D. in Economics from the University of Pittsburgh, where I specialized in Applied Microeconomics and Political Economy.
+Welcome to my website. I am an economist with experience applying data science and causal inference to real world business and policy problems. I recently earned my PhD in Economics from the University of Pittsburgh, with a focus on applied microeconomics and political economy.
 {style="text-align: justify;"}
 
-During my Ph.D., I employed natural language processing (NLP), machine learning, and causal inference methods to study how economic and political dynamics influence political rhetoric and behavior. My research explored how politicians respond to corruption scandals and immigration shocks, their engagement on social media, and the effects of OFAC penalties on firms.
+My work sits at the intersection of economics, data science, and decision making. I have used natural language processing, machine learning, and experimental methods to deliver insights for business, policy, and research audiences. This includes applied work on large scale data, experimentation, and measurement, as well as research on how economic and political dynamics shape political rhetoric, behavior, and firm outcomes.
 {style="text-align: justify;"}
 
-I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s in International Economics at the Universidad de la República (Udelar). My background also includes teaching, research collaborations, and advising both a politician and a college dean.
+I have experience working across industry, academia, and public institutions. My background includes applied research and economic analysis in business settings, building data products and dashboards for public facing organizations, and advising both a member of Congress and a college dean.
 {style="text-align: justify;"}
 
-As you navigate through my website, you will find information about my research, publications, presentations, teaching, and other professional activities. You can also explore my coding portfolio and visit my <a href="https://github.com/guillelezama">GitHub</a> to see examples of my work.
-{style="text-align: justify;"}. You can find my resume and contact information if you would like to get in touch with me.
+I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s degree in International Economics at the Universidad de la República.
 {style="text-align: justify;"}
 
+On this site you will find information about my research, publications, presentations, teaching, and applied projects. You can also explore my coding portfolio and <a href="https://github.com/guillelezama">GitHub</a> for examples of end to end data analysis, experimentation, and production oriented work.
+{style="text-align: justify;"}
