@@ -14,7 +14,7 @@ last_name: Lezama
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
