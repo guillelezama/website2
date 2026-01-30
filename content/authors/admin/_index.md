@@ -82,17 +82,5 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-Welcome to my website. I am an economist with experience applying data science and causal inference to real world business and policy problems. I recently earned my PhD in Economics from the University of Pittsburgh, with a focus on applied microeconomics and political economy.
-{style="text-align: justify;"}
-
-My work sits at the intersection of economics, data science, and decision making. I have used natural language processing, machine learning, and experimental methods to deliver insights for business, policy, and research audiences. This includes applied work on large scale data, experimentation, and measurement, as well as research on how economic and political dynamics shape political rhetoric, behavior, and firm outcomes.
-{style="text-align: justify;"}
-
-I have experience working across industry, academia, and public institutions. My background includes applied research and economic analysis in business settings, building data products and dashboards for public facing organizations, and advising both a member of Congress and a college dean.
-{style="text-align: justify;"}
-
-I was born and raised in Uruguay, where I completed my undergraduate studies and a Master’s degree in International Economics at the Universidad de la República.
-{style="text-align: justify;"}
-
-On this site you will find information about my research, publications, presentations, teaching, and applied projects. You can also explore my coding portfolio and <a href="https://github.com/guillelezama">GitHub</a> for examples of end to end data analysis, experimentation, and production oriented work.
+Welcome to my website. I am an economist with a PhD from the University of Pittsburgh, specializing in applied microeconomics and political economy. My work combines data science, causal inference, and machine learning to study business, policy, and political behavior, drawing on experience across industry, academia, and public institutions.
 {style="text-align: justify;"}
