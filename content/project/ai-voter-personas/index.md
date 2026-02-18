@@ -11,7 +11,7 @@ links:
 - name: Live Demo
   url: https://anes-2024-personas.vercel.app/
 - name: Code & Methodology
-  url: https://github.com/guillelezama
+  url: https://github.com/guillelezama/anes-2024-personas
 
 image:
   caption: ""
