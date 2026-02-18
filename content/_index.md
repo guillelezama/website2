@@ -140,7 +140,7 @@ sections:
 
         **Uruguayan Elections (Data Apps + Visualization)**
         Built interactive applications to explore electoral data from 2004–2024, leveraging voter ID systems and precinct-level data. Featured in Semanario Busqueda.
-        [View Project](project/example6/)
+        [View Project](project/example6/) | [GitHub](https://github.com/guillelezama/elecciones_UY)
 
         **Experimentation & Causal Inference (Amazon)**
         Built RCT automation pipelines (ingestion, balance/SRM checks, treatment effects) and modeled and estimated causal lift from delivery-speed changes for investment modeling (using observational and experimental data).
