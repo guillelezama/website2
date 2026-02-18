@@ -143,7 +143,7 @@ sections:
         [View Project](project/example6/)
 
         **Experimentation & Causal Inference (Amazon)**
-        Built RCT automation pipelines (ingestion, balance/SRM checks, treatment effects) and estimated causal lift from delivery-speed experiments for investment modeling.
+        Built RCT automation pipelines (ingestion, balance/SRM checks, treatment effects) and modeled and estimated causal lift from delivery-speed changes for investment modeling (using observational and experimental data).
 
         [More projects in Projects & Systems &rarr;](project/)
     design:
