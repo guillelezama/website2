@@ -136,7 +136,7 @@ sections:
       text: |-
         **AI Voter Personas (ML + GenAI System)**
         Clustered 51 ANES policy variables into 15 voter segments and built a structured LLM interface grounded in empirical distributions.
-        [View Project](project/ai-voter-personas/)
+        [View Project](project/ai-voter-personas/) | [Live Demo](https://anes-2024-personas.vercel.app/)
 
         **Uruguayan Elections (Data Apps + Visualization)**
         Built interactive applications to explore electoral data from 2004–2024, leveraging voter ID systems and precinct-level data. Featured in Semanario Busqueda.
