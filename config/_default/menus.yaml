@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Projects & Systems
+    url: 'project/'
+    weight: 15
   - name: Research
     url: '#research'
     weight: 20
-  - name: Projects & Systems
-    url: 'project/'
-    weight: 30
   - name: Teaching
     url: teaching/
     weight: 60
@@ -24,7 +24,7 @@ main:
     weight: 100
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
+  - name: Academic CV
     url: uploads/cv.pdf
     weight: 80
   - name: Resume
