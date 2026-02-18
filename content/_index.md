@@ -138,11 +138,12 @@ sections:
         Clustered 51 ANES policy variables into 15 voter segments and built a structured LLM interface grounded in empirical distributions.
         [View Project](project/ai-voter-personas/)
 
-        **RCT Automation Framework (Amazon)**
-        Built ingestion, balance/SRM checks, and treatment-effect pipelines to standardize experimentation workflows.
+        **Uruguayan Elections (Data Apps + Visualization)**
+        Built interactive applications to explore electoral data from 2004–2024, leveraging voter ID systems and precinct-level data. Featured in Semanario Busqueda.
+        [View Project](project/example6/)
 
-        **Speed Elasticity & Investment Modeling (Amazon)**
-        Estimated causal lift from delivery-speed experiments and translated effects into elasticity inputs for finance evaluation.
+        **Experimentation & Causal Inference (Amazon)**
+        Built RCT automation pipelines (ingestion, balance/SRM checks, treatment effects) and estimated causal lift from delivery-speed experiments for investment modeling.
 
         [More projects in Projects & Systems &rarr;](project/)
     design:
