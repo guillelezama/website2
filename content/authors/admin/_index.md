@@ -17,9 +17,7 @@ superuser: true
 role: PhD Economist | Data Scientist | Causal Inference & ML Systems
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: University of Pittsburgh
-    url: https://www.econ.pitt.edu/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -84,5 +82,5 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-I am a data scientist and applied economist (PhD, University of Pittsburgh) specializing in experimentation, causal inference, and ML-driven systems. My work combines rigorous statistical methods with production-oriented tools to translate data into decision-ready insights.
+I am a data scientist and applied economist (PhD, University of Pittsburgh) specializing in experimentation, causal inference, NLP, and ML-driven systems. My work combines rigorous statistical methods with production-oriented tools — including large-scale text classification with LLMs and automated experimentation pipelines — to translate data into decision-ready insights.
 {style="text-align: justify;"}

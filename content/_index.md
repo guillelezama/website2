@@ -218,9 +218,9 @@ sections:
 #      appointment_url: 'https://calendly.com'
       address:
 #        street: 230 South Bouquet Street, Office 4514
-        city: Seattle
-        region: WA
-        postcode: '98119'
+        city: Los Angeles
+        region: CA
+        postcode: ''
         country: United States
         country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
