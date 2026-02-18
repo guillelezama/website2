@@ -134,7 +134,7 @@ sections:
     content:
       title: Selected Work
       text: |-
-        ***New!*** **AI Voter Personas (ML + GenAI System)**
+        <span style="background-color: #1565c0; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: bold;">NEW</span> **AI Voter Personas (ML + GenAI System)**
         Clustered 51 ANES policy variables into 15 voter segments and built a structured LLM interface grounded in empirical distributions.
         [View Project](project/ai-voter-personas/) | [Live Demo](https://anes-2024-personas.vercel.app/)
 
