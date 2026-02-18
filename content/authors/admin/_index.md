@@ -82,5 +82,5 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-I am a data scientist and applied economist (PhD, University of Pittsburgh) specializing in experimentation, causal inference, NLP, and ML-driven systems. My work combines rigorous statistical methods with production-oriented tools — including large-scale text classification with LLMs and automated experimentation pipelines — to translate data into decision-ready insights.
+I am a data scientist and applied economist (PhD, University of Pittsburgh) specializing in experimentation, causal inference, NLP, and ML-driven systems. My work combines rigorous statistical methods with production-oriented tools — including large-scale text classification with LLMs, automated experimentation pipelines, and interactive data applications. I also teach courses on exploratory data analysis and unstructured data methods.
 {style="text-align: justify;"}

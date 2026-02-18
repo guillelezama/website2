@@ -7,4 +7,4 @@ layout: docs  # Do not modify.
 #   caption: ""
 #   image: ""
 ---
-Applied projects spanning ML systems, data apps, causal inference, and GenAI. Explore below.
+Applied projects spanning ML systems, data visualization, data apps, causal inference, and GenAI. Explore below.
