@@ -14,7 +14,7 @@ last_name: Lezama
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Economics
+role: PhD Economist | Data Scientist | Causal Inference & ML Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Text Analysis
+  - Experimentation & Causal Inference
+  - Machine Learning & GenAI Systems
+  - NLP & Text-as-Data
   - Applied Microeconomics
 
 # Education to show in About widget
@@ -82,5 +84,5 @@ email: guillermo.lezama@pitt.edu
 highlight_name: true
 ---
 
-Welcome to my website. I am an economist with a PhD from the University of Pittsburgh, specializing in applied microeconomics and political economy. My work combines data science, causal inference, and machine learning to study business, policy, and political behavior, drawing on experience across industry, academia, and public institutions.
+I am a data scientist and applied economist (PhD, University of Pittsburgh) specializing in experimentation, causal inference, and ML-driven systems. My work combines rigorous statistical methods with production-oriented tools to translate data into decision-ready insights.
 {style="text-align: justify;"}

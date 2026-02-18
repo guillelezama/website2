@@ -129,14 +129,31 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
-  - block: collection
-    id: jmp
+  - block: markdown
+    id: selected-work
     content:
-      title: Job Market Paper
+      title: Selected Work
+      text: |-
+        **AI Voter Personas (ML + GenAI System)**
+        Clustered 51 ANES policy variables into 15 voter segments and built a structured LLM interface grounded in empirical distributions.
+        [View Project](project/example7/)
+
+        **RCT Automation Framework (Amazon)**
+        Built ingestion, balance/SRM checks, and treatment-effect pipelines to standardize experimentation workflows.
+
+        **Speed Elasticity & Investment Modeling (Amazon)**
+        Estimated causal lift from delivery-speed experiments and translated effects into elasticity inputs for finance evaluation.
+
+        [More projects in Projects & Systems &rarr;](project/)
+    design:
+      columns: '2'
+  - block: collection
+    id: research
+    content:
+      title: Research
       filters:
         folders:
           - publication
-        jmp: true
         tag: jmp
     design:
       columns: '2'
@@ -165,7 +182,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection    
+  - block: collection
     id: publications
     content:
       title: Publications
