@@ -136,7 +136,7 @@ sections:
       text: |-
         **AI Voter Personas (ML + GenAI System)**
         Clustered 51 ANES policy variables into 15 voter segments and built a structured LLM interface grounded in empirical distributions.
-        [View Project](project/example7/)
+        [View Project](project/ai-voter-personas/)
 
         **RCT Automation Framework (Amazon)**
         Built ingestion, balance/SRM checks, and treatment-effect pipelines to standardize experimentation workflows.
@@ -150,35 +150,11 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
-      filters:
-        folders:
-          - publication
-        tag: jmp
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: working
-    content:
       title: Working Papers
       filters:
         folders:
           - publication
-        working_only: true
         tag: Working Papers
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: working2
-    content:
-      title: Work in Progress
-      filters:
-        folders:
-          - publication
-        working2_only: true
-        tag: Work in Progress
     design:
       columns: '2'
       view: citation
