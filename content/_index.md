@@ -220,7 +220,7 @@ sections:
 #        street: 230 South Bouquet Street, Office 4514
         city: Los Angeles
         region: CA
-        postcode: ''
+        postcode: '90007'
         country: United States
         country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
